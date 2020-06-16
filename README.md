@@ -1,7 +1,7 @@
 # Notional Machines Collection
 This web site hosts the notional machines collected by the ITiCSE'20 Working Group.
 
-[Variable as Box](_posts/2020-06-16-VariableAsBox.md)
+[Variable as Box]({% post_url 2020-06-16-VariableAsBox %})
 
 
 ## All Notional Machines
