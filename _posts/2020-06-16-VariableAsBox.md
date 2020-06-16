@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Variable as Box"
+---
+
 # Variable as Box
 
 ## Programming Paradigm
