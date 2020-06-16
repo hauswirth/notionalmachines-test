@@ -14,7 +14,9 @@ This web site hosts the notional machines collected by the ITiCSE'20 Working Gro
 </ul>
 
 
-# Notional Machines by Tag
+## Notional Machines by Tag
+We organized the notional machines by tags.
+
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
   <ul>
