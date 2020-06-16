@@ -1,6 +1,6 @@
 # Hello
 
-[Variable as Box](VariableAsBox.md)
+[Variable as Box](_posts/2020-06-16-VariableAsBox.md)
 
 ## All Notional Machines
 <ul>
