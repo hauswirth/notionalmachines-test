@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Variable as Box"
+tags:   "Analogy"
 ---
 
 # Variable as Box
