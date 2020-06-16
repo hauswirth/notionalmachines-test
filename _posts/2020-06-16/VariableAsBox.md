@@ -1,27 +1,27 @@
 # Variable as Box
 
-# Programming Paradigm
+## Programming Paradigm
 imperative
 
-# Programming Language
+## Programming Language
 any
 
-# Conceptual Advantage
+## Conceptual Advantage
 Makes variables tangible, embodied activity
 
-# Mapping
+## Mapping
 
-# Form
+## Form
 Analogy
 
-# Makes Visible
+## Makes Visible
 variables, access, initialization
 
-# Use When
+## Use When
 When the concept of variables is still unclear
 
-# Cost
+## Cost
 Might include multiple values hypothesis
 
-# Attribution
+## Attribution
 ..
